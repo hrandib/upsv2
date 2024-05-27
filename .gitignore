@@ -1,0 +1,11 @@
+*-backups/
+build-*/
+*.qbs.user
+\#auto_saved_files#
+_autosave-*
+fp-info-cache
+*.log
+gerbers/
+gerbers.*
+pins_boardconf
+~*.lck

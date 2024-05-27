@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bq2")(type "KiCad")(uri "${KIPRJMOD}/lib/BQ24610.kicad_sym")(options "")(descr ""))
+  (lib (name "bq7")(type "KiCad")(uri "${KIPRJMOD}/lib/BQ7692006PW.kicad_sym")(options "")(descr ""))
+  (lib (name "lm")(type "KiCad")(uri "${KIPRJMOD}/lib/LM2664M6.kicad_sym")(options "")(descr ""))
+)
