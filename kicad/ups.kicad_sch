@@ -8655,7 +8655,7 @@
 				)
 			)
 		)
-		(property "Value" "IRF7324"
+		(property "Value" "AO4801A"
 			(at 100.33 91.44 90)
 			(effects
 				(font
@@ -8745,7 +8745,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FDS6890A"
+		(property "Value" "AO4800"
 			(at 247.65 126.9999 0)
 			(effects
 				(font
@@ -11224,7 +11224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FDS6890A"
+		(property "Value" "AO4800"
 			(at 247.65 147.3199 0)
 			(effects
 				(font
@@ -13062,7 +13062,7 @@
 				)
 			)
 		)
-		(property "Value" "IRF7324"
+		(property "Value" "AO4801A"
 			(at 125.73 91.44 90)
 			(effects
 				(font
