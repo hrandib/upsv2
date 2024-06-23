@@ -7294,7 +7294,7 @@
 		)
 		(uuid "4109643a-b672-44ae-8e42-89fa5cced9fd")
 	)
-	(text "I_{DPM}=3.3*(R12/R12+R18)/(20*R2)\n\nI_{PRECHG}=3.3*(R11/R11+R17)/(20*R9)\n\nI_{CHG}=3.3*(R10/R10+R16)/(20*R9)\n"
+	(text "I_{DPM}=3.3*(R12/R12+R18)/(20*R2)\n\nI_{PRECHG}=3.3*(R11/R11+R17)/(100*R9)\n\nI_{CHG}=3.3*(R10/R10+R16)/(20*R9)\n"
 		(exclude_from_sim no)
 		(at 145.542 204.978 0)
 		(effects
